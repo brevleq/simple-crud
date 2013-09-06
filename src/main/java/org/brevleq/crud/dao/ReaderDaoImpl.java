@@ -1,6 +1,6 @@
-package org.brevleq.simplepersistence.dao;
+package org.brevleq.crud.dao;
 
-import org.brevleq.simplepersistence.beans.ParameterBean;
+import org.brevleq.crud.beans.ParameterBean;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 import java.io.Serializable;

@@ -4,7 +4,7 @@
  * A cópia não autorizada, irá gerar punições previstas em lei.
  */
 
-package org.brevleq.simplepersistence.dao;
+package org.brevleq.crud.dao;
 
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
 import org.springframework.jdbc.core.namedparam.SqlParameterSource;

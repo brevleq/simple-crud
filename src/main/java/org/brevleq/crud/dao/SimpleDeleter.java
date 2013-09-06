@@ -1,4 +1,4 @@
-package org.brevleq.simplepersistence.dao;
+package org.brevleq.crud.dao;
 
 import com.hrgi.utilidades.beans.RecuperadorMetodos;
 import org.slf4j.Logger;

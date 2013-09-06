@@ -1,4 +1,4 @@
-package org.brevleq.simplepersistence.dao;
+package org.brevleq.crud.dao;
 
 import javax.persistence.*;
 import java.lang.annotation.Annotation;

@@ -1,4 +1,4 @@
-package org.brevleq.simplepersistence.beans;
+package org.brevleq.crud.beans;
 
 /**
  * Created with IntelliJ IDEA.
